@@ -1,0 +1,16 @@
+* {
+    margin: 10px;
+}
+.back {
+    color: white;
+    
+    text-align: center;
+    font-size: 500%;
+    text-shadow: 20px;
+    background-image: url(sp.jpg);   
+    background-repeat: repeat;
+    
+}
+img {
+    border: 1.89px solid green;
+}
